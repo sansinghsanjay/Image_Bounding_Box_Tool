@@ -4,7 +4,7 @@ This is a Python project for creating bounding box masks. This tool is useful in
 ## Application
 This tool is useful for creating mask, which marks the region of interest (roi) in an image. Such kind of data, image and its mask, is useful in training Machine Learning - Neural Networks (such as U-Net) for Image Segmentation problem.
 
-Sometimes, people don't have only image and they want to create mask for those images. These masks are white only in the region of object of interest, and hence becomes the annotation of an image.
+Sometimes, people have only images and they want to create masks for those images. These masks are white in the region of object of interest, and black in rest of the regions.
 
 ## Steps
 Following are the steps to use this Python script:
@@ -26,4 +26,4 @@ Following are the steps to use this Python script:
 	vii. Script will ask that whether you want to continue ("c") or you want to quit ("q"). If user entered "c", then next image will open, and the all the above steps will repeat.
 
 ## Environment
-This Python script is developed and tested in Python-3.6.7, Ubuntu-18.04.
+This Python script is developed and tested in Python-3.6.7, Ubuntu-18.04 (OS).
