@@ -1,6 +1,15 @@
 # Image Bounding Box Tool
 This is a Python project for creating bounding box masks. This tool is useful in creating masks of images. Following is input/output flow of this tool:
 
+|![Object of Interest](https://github.com/sansinghsanjay/Image_Bounding_Box_Tool/blob/master/images/object_of_interest.png) |
+|:--:|
+| *Object of Interest* |
+
+
+|![Input Output Flow](https://github.com/sansinghsanjay/Image_Bounding_Box_Tool/blob/master/images/object_of_interest.png) |
+|:--:|
+| *Input Output Flow* |
+
 ## Application
 This tool is useful for creating mask, which marks the region of interest (roi) in an image. Such kind of data, image and its mask, is useful in training Machine Learning - Neural Networks (such as U-Net) for Image Segmentation problem.
 
@@ -27,3 +36,7 @@ Following are the steps to use this Python script:
 
 ## Environment
 This Python script is developed and tested in Python-3.6.7, Ubuntu-18.04 (OS).
+
+|![Python3](https://github.com/sansinghsanjay/Image_Bounding_Box_Tool/blob/master/images/python3.png) |![Ubuntu](https://github.com/sansinghsanjay/Image_Bounding_Box_Tool/blob/master/images/ubuntu_logo.png) |
+|:--:|:--:|
+| *Python3* | *Ubuntu* |
