@@ -6,7 +6,7 @@ This is a Python project for creating bounding box masks. This tool is useful in
 | *Object of Interest* |
 
 
-|![Input Output Flow](https://github.com/sansinghsanjay/Image_Bounding_Box_Tool/blob/master/images/object_of_interest.png) |
+|![Input Output Flow](https://github.com/sansinghsanjay/Image_Bounding_Box_Tool/blob/master/images/input_output_flow.png) |
 |:--:|
 | *Input Output Flow* |
 
